@@ -10,9 +10,9 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/project"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/project"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // Context is the ambient state every tool receives.

@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rushikeshg25/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/security"
 )
 
 var httpClient = &http.Client{

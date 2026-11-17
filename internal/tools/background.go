@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/rushikeshg25/cool-code/internal/security"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 const backgroundLogLimit = 64 * 1024

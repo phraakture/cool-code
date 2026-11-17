@@ -11,12 +11,12 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/spf13/cobra"
 
-	"github.com/rushikeshg25/cool-code/internal/agent"
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/llm"
-	"github.com/rushikeshg25/cool-code/internal/session"
-	"github.com/rushikeshg25/cool-code/internal/tui"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/agent"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/session"
+	"github.com/phraakture/cool-code/internal/tui"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // Version is the CLI version, overridable at build time via -ldflags.

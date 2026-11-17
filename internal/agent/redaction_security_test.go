@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/llm"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 func TestQueuedSecretsDoNotReachProviderOrSession(t *testing.T) {

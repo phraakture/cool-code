@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/config"
 )
 
 func TestBlockedPath(t *testing.T) {

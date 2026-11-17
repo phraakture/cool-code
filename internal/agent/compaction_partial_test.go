@@ -2,7 +2,7 @@ package agent
 
 import (
 	"encoding/json"
-	"github.com/rushikeshg25/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/llm"
 	"strings"
 	"testing"
 )

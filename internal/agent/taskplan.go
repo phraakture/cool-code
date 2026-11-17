@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/llm"
-	"github.com/rushikeshg25/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/security"
 )
 
 // TaskPlanStep is a single planned step.

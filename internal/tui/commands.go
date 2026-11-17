@@ -4,8 +4,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/rushikeshg25/cool-code/internal/tools"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/tools"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // slashCommand is a single in-session command. Reused for @-file suggestions,

@@ -4,7 +4,7 @@ import (
 	"context"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/x/ansi"
-	"github.com/rushikeshg25/cool-code/internal/tools"
+	"github.com/phraakture/cool-code/internal/tools"
 	"strings"
 	"testing"
 )

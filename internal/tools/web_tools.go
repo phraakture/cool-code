@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 const (
@@ -60,7 +60,7 @@ var webFetchTool = Tool{
 			return fail("Fetch blocked", err.Error())
 		}
 		req, _ := http.NewRequestWithContext(ctxT, http.MethodGet, u.String(), nil)
-		req.Header.Set("User-Agent", "cool-code/2.0 (+https://github.com/rushikeshg25/cool-code)")
+		req.Header.Set("User-Agent", "cool-code/2.0 (+https://github.com/phraakture/cool-code)")
 		res, err := safeWebClient.Do(req)
 		if err != nil {
 			return fail("Fetch failed", "Secure fetch failed: "+err.Error())

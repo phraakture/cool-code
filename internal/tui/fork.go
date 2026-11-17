@@ -2,7 +2,7 @@ package tui
 
 import (
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/rushikeshg25/cool-code/internal/session"
+	"github.com/phraakture/cool-code/internal/session"
 )
 
 func (m *model) forkSession() (tea.Model, tea.Cmd) {

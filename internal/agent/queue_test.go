@@ -2,8 +2,8 @@ package agent
 
 import (
 	"context"
-	"github.com/rushikeshg25/cool-code/internal/llm"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/types"
 	"strings"
 	"testing"
 )

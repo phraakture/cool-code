@@ -10,7 +10,7 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/charmbracelet/x/ansi"
 
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 func resizeModel(t *testing.T, m *model, width, height int) *model {

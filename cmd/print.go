@@ -9,10 +9,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/rushikeshg25/cool-code/internal/agent"
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/security"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/agent"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // runPrint executes one turn without the TUI and writes the result to stdout,

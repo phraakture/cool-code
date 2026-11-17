@@ -8,7 +8,7 @@ import (
 	"unicode"
 
 	"github.com/bmatcuk/doublestar/v4"
-	"github.com/rushikeshg25/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/config"
 )
 
 // BlockedPath returns a non-empty reason when reading filePath is disallowed by

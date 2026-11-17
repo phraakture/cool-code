@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/rushikeshg25/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/security"
 )
 
 func (m *model) markQueuedSent(messages []string) {

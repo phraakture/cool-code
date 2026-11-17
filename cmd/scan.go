@@ -10,8 +10,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/project"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/project"
 )
 
 func scanCmd() *cobra.Command {

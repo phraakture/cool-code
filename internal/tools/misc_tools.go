@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/rushikeshg25/cool-code/internal/project"
-	"github.com/rushikeshg25/cool-code/internal/skills"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/project"
+	"github.com/phraakture/cool-code/internal/skills"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 var projectSummaryTool = Tool{

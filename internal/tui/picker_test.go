@@ -4,9 +4,9 @@ import (
 	"fmt"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/x/ansi"
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/creds"
-	"github.com/rushikeshg25/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/creds"
+	"github.com/phraakture/cool-code/internal/llm"
 	"strings"
 	"testing"
 )

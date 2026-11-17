@@ -5,7 +5,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"github.com/rushikeshg25/cool-code/internal/agent"
+	"github.com/phraakture/cool-code/internal/agent"
 )
 
 // RunOptions configure an interactive session.

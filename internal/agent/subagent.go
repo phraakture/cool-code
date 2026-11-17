@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/rushikeshg25/cool-code/internal/llm"
-	"github.com/rushikeshg25/cool-code/internal/security"
-	"github.com/rushikeshg25/cool-code/internal/tools"
+	"github.com/phraakture/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/tools"
 )
 
 const spawnAgentTool = "spawn_agent"

@@ -10,8 +10,8 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/charmbracelet/x/ansi"
 
-	"github.com/rushikeshg25/cool-code/internal/security"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 func newViewport(width, height int) viewport.Model {

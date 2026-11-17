@@ -8,7 +8,7 @@ import (
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/x/ansi"
-	"github.com/rushikeshg25/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/security"
 )
 
 type asideDialog struct {

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/config"
 )
 
 // These exercise the guards through the tools themselves rather than through

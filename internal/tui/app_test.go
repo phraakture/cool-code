@@ -7,9 +7,9 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"github.com/rushikeshg25/cool-code/internal/agent"
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/agent"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // newTestModel builds a model backed by a real processor. A fake API key lets

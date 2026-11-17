@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/creds"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/creds"
 )
 
 func TestDiscoverModelsKeepsProvidersAndPartialResults(t *testing.T) {

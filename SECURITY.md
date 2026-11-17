@@ -4,7 +4,7 @@
 
 Please report vulnerabilities privately through GitHub Security Advisories:
 
-https://github.com/rushikeshg25/cool-code/security/advisories/new
+https://github.com/phraakture/cool-code/security/advisories/new
 
 Do not include credentials, private source code, or exploit data in a public issue.
 

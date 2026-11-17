@@ -14,11 +14,11 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/x/ansi"
 
-	"github.com/rushikeshg25/cool-code/internal/agent"
-	"github.com/rushikeshg25/cool-code/internal/llm"
-	"github.com/rushikeshg25/cool-code/internal/security"
-	"github.com/rushikeshg25/cool-code/internal/session"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/agent"
+	"github.com/phraakture/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/session"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // --- messages pushed from the processor goroutine ---

@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/rushikeshg25/cool-code/internal/security"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 var gitStatusTool = Tool{

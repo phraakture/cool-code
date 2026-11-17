@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rushikeshg25/cool-code/internal/agent"
+	"github.com/phraakture/cool-code/internal/agent"
 )
 
 func TestPlainOutputSanitizesUntrustedControls(t *testing.T) {

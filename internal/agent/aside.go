@@ -5,9 +5,9 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/rushikeshg25/cool-code/internal/llm"
-	"github.com/rushikeshg25/cool-code/internal/security"
-	"github.com/rushikeshg25/cool-code/internal/tools"
+	"github.com/phraakture/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/tools"
 )
 
 // PrepareAside captures an independent, bounded view of the conversation on

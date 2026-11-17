@@ -11,11 +11,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
-	"github.com/rushikeshg25/cool-code/internal/llm"
-	"github.com/rushikeshg25/cool-code/internal/project"
-	"github.com/rushikeshg25/cool-code/internal/tools"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/llm"
+	"github.com/phraakture/cool-code/internal/project"
+	"github.com/phraakture/cool-code/internal/tools"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // fakeProvider scripts a sequence of responses for the agent loop.

@@ -3,7 +3,7 @@ package agent
 import (
 	"testing"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/config"
 )
 
 func TestUnsupportedProviderCanRecoverInteractively(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // Question requests one answer. Options are suggestions; free text is always allowed.

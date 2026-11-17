@@ -2,7 +2,7 @@ package tui
 
 import (
 	"github.com/charmbracelet/x/ansi"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/types"
 	"strings"
 	"testing"
 )

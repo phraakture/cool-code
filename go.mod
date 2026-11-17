@@ -1,4 +1,4 @@
-module github.com/rushikeshg25/cool-code
+module github.com/phraakture/cool-code
 
 go 1.27.3
 

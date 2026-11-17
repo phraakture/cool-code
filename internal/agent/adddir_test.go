@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 func TestAddDirValidation(t *testing.T) {

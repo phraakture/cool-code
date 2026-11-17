@@ -30,7 +30,7 @@ Cool-Code combines large language models with a comprehensive set of development
 ### Go install (recommended)
 
 ```bash
-go install github.com/rushikeshg25/cool-code@latest
+go install github.com/phraakture/cool-code@latest
 ```
 
 This places a `cool-code` binary in your `$GOBIN` (usually `~/go/bin` - make sure it's on your `PATH`).
@@ -38,7 +38,7 @@ This places a `cool-code` binary in your `$GOBIN` (usually `~/go/bin` - make sur
 ### Build from source
 
 ```bash
-git clone https://github.com/rushikeshg25/cool-code.git
+git clone https://github.com/phraakture/cool-code.git
 cd cool-code
 make build      # produces ./cool-code
 # or: go build -o cool-code .

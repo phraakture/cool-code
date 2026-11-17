@@ -2,7 +2,7 @@ package tui
 
 import (
 	"github.com/charmbracelet/lipgloss"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // Palette - a restrained, opencode-inspired theme with a single violet accent,

@@ -16,8 +16,8 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/rushikeshg25/cool-code/internal/security"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 // Browser owns one isolated Playwright CLI session. The zero value is lazy:

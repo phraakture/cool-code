@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/rushikeshg25/cool-code/internal/config"
+	"github.com/phraakture/cool-code/internal/config"
 )
 
 func configCmd() *cobra.Command {

@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"github.com/bmatcuk/doublestar/v4"
-	"github.com/rushikeshg25/cool-code/internal/security"
-	"github.com/rushikeshg25/cool-code/internal/types"
+	"github.com/phraakture/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/types"
 )
 
 const maxGrepFileSize = 5 * 1024 * 1024

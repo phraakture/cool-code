@@ -43,7 +43,7 @@ jobs:
           if [ "$GOOS" = "windows" ]; then EXT=".exe"; fi
           OUT="cool-code_${GOOS}_${GOARCH}${EXT}"
           ARCHIVE="cool-code_${GOOS}_${GOARCH}.tar.gz"
-          go build -trimpath -ldflags "-s -w -X github.com/rushikeshg25/cool-code/cmd.Version=${VERSION}" -o "$OUT" .
+          go build -trimpath -ldflags "-s -w -X github.com/phraakture/cool-code/cmd.Version=${VERSION}" -o "$OUT" .
           tar -czf "$ARCHIVE" "$OUT"
           sha256sum "$ARCHIVE" > "$ARCHIVE.sha256"
           echo "BINARY=$OUT" >> "$GITHUB_ENV"

@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rushikeshg25/cool-code/internal/security"
+	"github.com/phraakture/cool-code/internal/security"
 )
 
 type shellResult struct {
